@@ -1,6 +1,6 @@
-# stas-add-payment-filter
+# Add payment filter
 
-A WooCommerce Admin Extension
+A WooCommerce Admin Extension to add filtering orders by payment type
 
 ## Development
 
